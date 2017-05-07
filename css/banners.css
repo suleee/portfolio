@@ -1,0 +1,23 @@
+h2{
+	padding-top: 50px;
+	margin: 0;
+	font-size: 30px;
+	font-weight: 300;
+}
+/*h3{
+	margin-top: 30px;
+	font-size: 20px;
+}*/
+
+.banners-content{
+	margin: 0px 50px;
+}
+
+.banner-img01{
+	width: 100%;
+}
+
+
+.banners-content p{
+	margin-bottom: 50px;
+}
