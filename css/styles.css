@@ -14,7 +14,7 @@ a{
 .container{
 	/*display: flex;
 	min-width: 300px;*/
-	padding-left: 250px;
+	padding-left: 50%;
 }
 .side-menu{
 	position: fixed;
@@ -90,6 +90,9 @@ i{
 @media all and (min-width: 600px) {
 .side-menu{
 	width: 250px;
+}
+.container{
+	padding-left: 250px;
 }
 
 }
