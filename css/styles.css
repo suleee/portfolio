@@ -18,7 +18,7 @@ a{
 }
 .side-menu{
 	position: fixed;
-	width: 250px;
+	width: 50%;
 	background-color: #363636;
 	    height: 100vh;
 }
@@ -87,3 +87,9 @@ i{
 	background-color: black;
 }
 
+@media all and (min-width: 600px) {
+.side-menu{
+	width: 250px;
+}
+
+}
