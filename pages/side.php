@@ -2,16 +2,15 @@
 	<div class="side-menu">
 		<a href="index.php"><div class="logo">Jlee website</div></a>
 		<p class="logo-subtext"><span>ui/ux</span> Designer</p>
-		<p class="summary">My name is Jisu Lee who have been web desiging 5years. I have had many opportunities to work upon variety web and product design.</p>
+		<p class="summary">My name is Jisu Lee who have been desiging web and product designs for 5 years. I have had many opportunities to work upon variety web and product design.</p>
 
 		<ul class="nav-menu">
 		<li><a href="index.php">All</a></li>
-		<li>Website</li>
-		<li>Sign up page design</li>
-		<li>Event page</li>
-		<li>Banners</li>
-		<li>Appplication UI</li>
-		<li>Logo</li>
+		<li><a href="web.php">Web Design</a></li>
+		<li><a href="banners.php">Banners</a></li>
+		<li><a href="index.php">Sign-up page design</a></li>
+		<li><a href="index.php">Event pages</a></li>
+		<li><a href="index.php">UI Design</a></li>
 		</ul>
 
 		<div class="contact-info">
