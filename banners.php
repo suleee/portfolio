@@ -4,9 +4,16 @@
 <?php include( './pages/side.php' );?>
 	
 <div class="container">
-	<div class="banners-content">
-	<h2>Advertising Banners</h2>
-	<p>creating aesthetics marketing banners from a scratch</p>
+
+<div class="hero-banner">
+		<h2>Hello</h2>
+		<p>Managed Gobal Promotions for the top moblie game advertisers</p>
+		</div>
+	<div class="bannerpage-content">
+
+	<div class="bannerpage-section1">
+		<p>Managed Gobal Promotions for the top moblie game advertisers</p>
+	</div>
 <!-- 
 	<h3>Marketing Banners for Disney's new moblie game</h3>
 	<p>this is an advertising banner for mobile game Disney Magical Dice</p> -->
