@@ -22,13 +22,13 @@
 	<div class="img-container"><img class="img fill" src="img/fh-thumb02.png" alt="fh-thumb"></div>
 	</li>
 	
-<!-- 
+
 	<li>
 	<div class="img-container"><img class="img fill" src="img/wr-thumb.jpg" alt="fh-thumb"></div></li>
 	<li>
 
 	<div class="img-container"><img class="img fill" src="img/gh-thumb.jpg" alt="wr-thumb"></div></li>
-	<li>
+	<!-- <li>
 	<div class="img-container"><img class="img fill" src="img/wr-thumb.jpg" alt="fh-thumb"></div></li>
 	<li>
 	<div class="img-container"><img class="img fill" src="img/gh-thumb.jpg" alt="wr-thumb"></div></li>

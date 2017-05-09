@@ -2,7 +2,10 @@
 	<div class="side-menu">
 		<a href="index.php"><div class="logo">Jlee website</div></a>
 		<p class="logo-subtext"><span>ui/ux</span> Designer</p>
-		<p class="summary">My name is Jisu Lee who have been desiging web and product designs for 5 years. I have had many opportunities to work upon variety web and product design.</p>
+		<p class="summary">My name is Jisu Lee. I have been working
+		as a web graphic desginer for 5 yeasrs. Recently I took a
+		web development course to enhance my
+		knowledge.</p>
 
 		<ul class="nav-menu">
 		<li><a href="index.php">All</a></li>
