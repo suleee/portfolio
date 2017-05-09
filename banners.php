@@ -5,14 +5,14 @@
 	
 <div class="container">
 
-<div class="hero-banner">
-		<h2>Hello</h2>
-		<p>Managed Gobal Promotions for the top moblie game advertisers</p>
+		<div class="bannerpage-herobanner">
+		<h2>Promotion Banners</h2>
 		</div>
 	<div class="bannerpage-content">
-
 	<div class="bannerpage-section1">
-		<p>Managed Gobal Promotions for the top moblie game advertisers</p>
+	<h3>Managed Global Promotion for the top moblie game advertiseres</h3>
+		<p>When I was working at the marketing agency, I provided art direction and stunning asethetic advertise designs to the clients. Throw the A/B test and analystics, me and our design team delivered the best performance design to the clients</p>
+		<img src="img/banner-img01.png">
 	</div>
 <!-- 
 	<h3>Marketing Banners for Disney's new moblie game</h3>

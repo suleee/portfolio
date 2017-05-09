@@ -1,12 +1,38 @@
-h2{
+.bannerpage-herobanner h2{
 	padding-top: 50px;
 	margin: 0;
-	font-size: 50px;
-	font-weight: 500;
+	font-size: 20px;
+	font-weight: 300;
+	color: white;
+	left: 2%;
+	position: absolute;
+    top: 67px;
 }
-
-.hero-banner{
+.bannerpage-section1{
+	display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    position: relative;
+	z-index: 1;
+	background-color: white;
+}
+.bannerpage-content h3{
+	font-size: 20px;
+    font-weight: 300;
+    padding-top: 50px;
+    text-align: center;
+}
+.bannerpage-content p{
+	font-size: 12px;
+    font-weight: 100;
+    padding: 20px 20px 50px 20px;
+    text-align: center;
+}
+.bannerpage-content img{
 	width: 100%;
+	height: 100%;
+	padding-bottom: 50px;
 }
 .banner-img01{
 	width: 100%;
@@ -14,23 +40,42 @@ h2{
 
 .bannerpage-content {
 	z-index: 1;
-	padding-top: 300px;
+	padding-top: 200px;
+}
+.bannerpage-herobanner{
+	/*z-index: 2;*/
+	width: 50%;
+	position: fixed;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 100%, rgba(0, 0, 0, 0.85) 100%),
+	url("../img/banner-hero.jpg") no-repeat center top;
+	background-size: cover;
+	height: 200px;
 }
 
-.bannerpage-content p{
-	margin-bottom: 50px;
+
+@media all and (min-width: 600px) {
+
+.bannerpage-herobanner h2{
+	left: 3%;
+	font-size: 60px;
 }
-.bannerpage-section1{
-	position: relative;
+.bannerpage-herobanner{
+	height: 300px;
+	width: 70%;
+}
+.bannerpage-content {
 	z-index: 1;
-	background-color: yellow;
-	height: 300px;
+	padding-top: 300px;
 }
-.hero-banner{
-	/*z-index: 2;*/
-	position: fixed;
-	background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 100%, rgba(255, 255, 255, 0.9) 100%),
-	url("../img/d-banner01.jpg") no-repeat center top;
-	background-size: cover;
-	height: 300px;
+.bannerpage-content img{
+ margin: 0 50px;
 }
+	}
+@media all and (min-width: 800px) {
+
+.bannerpage-herobanner{
+	height: 500px;
+	width: 100%
+}
+
+	}

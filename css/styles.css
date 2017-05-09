@@ -20,7 +20,7 @@ a{
 	position: fixed;
 	width: 50%;
 	background-color: #363636;
-	    height: 100vh;
+	height: 100vh;
 }
 .logo{
 	background: url(../img/logo02.png)no-repeat center 2rem;
@@ -39,7 +39,7 @@ a{
 	text-transform: uppercase; 
 }
 .nav-menu{
-	padding: 0px 50px;
+	padding: 10px 30px;
 	color: #9e4937;
 	font-weight: 300;
 }
@@ -50,12 +50,10 @@ a{
 	color: #ee775d;
 }
 .summary{
-	padding: 30px 50px;
-	margin-bottom: 50px;
+	padding: 20px 30px;
 }
 .contact-info{
-	padding: 30px 50px;
-	margin-top: 50px;
+	padding: 10px 30px;
 }
 .contact{
 	font-weight: 500;
@@ -93,6 +91,13 @@ i{
 }
 .container{
 	padding-left: 250px;
+}
+.summary{
+	padding: 30px 50px;
+	margin-bottom: 50px;
+}
+.contact-info{
+	margin-top: 50px;
 }
 
 }
