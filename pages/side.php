@@ -2,18 +2,17 @@
 	<div class="side-menu">
 		<a href="index.php"><div class="logo">Jlee website</div></a>
 		<p class="logo-subtext"><span>ui/ux</span> Designer</p>
-		<p class="summary">My name is Jisu Lee. I have been working
-		as a web graphic desginer for 5 yeasrs. Recently I took a
-		web development course to enhance my
-		knowledge.</p>
+		<p class="summary">My name is Jisu Lee. I have been working as a web graphic designer for 5 years. 
+I have had many opportunities to work upon a variety projects. I greatly enjoy designing and programming in the digital space.</p>
 
 		<ul class="nav-menu">
 		<li><a href="index.php">All</a></li>
 		<li><a href="web.php">Web Design</a></li>
 		<li><a href="banners.php">Banners</a></li>
-		<li><a href="index.php">Sign-up page design</a></li>
-		<li><a href="index.php">Event pages</a></li>
-		<li><a href="index.php">UI Design</a></li>
+		<li><a href="sign.php">Sign-up page design</a></li>
+		<!-- <li><a href="index.php">Event pages</a></li> -->
+		<li><a href="ui.php">UI Design</a></li>
+		<li><a href="webdev.php">Web Devleopment</a></li>
 		</ul>
 
 		<div class="contact-info">

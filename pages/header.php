@@ -9,8 +9,12 @@
     <link rel="stylesheet" type=text/css href="css/reset.css">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/content.css">
 	<link rel="stylesheet" type="text/css" href="css/banners.css">
-
+	<link rel="stylesheet" type="text/css" href="css/web.css">
+	<link rel="stylesheet" type="text/css" href="css/sign.css">
+	<link rel="stylesheet" type="text/css" href="css/webdev.css">
+	<link rel="stylesheet" type="text/css" href="css/ui.css">
 	<!-- <link rel="stylesheet" href="css/flickity.css" media="screen"> -->
 	<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
 

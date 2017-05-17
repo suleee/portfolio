@@ -1,26 +1,23 @@
-
-.banner-img01{
-	width: 100%;
+a .fa-github {
+	font-size: 100px;
+	text-align: center;
 }
 
-.bannerpage-herobanner{
+
+.webdevpage-herobanner{
 	/*z-index: 2;*/
 	width: 50%;
 	position: fixed;
 	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 100%, rgba(0, 0, 0, 0.85) 100%),
-	url("../img/banner-hero.jpg") no-repeat center top;
+	url(".jpg") no-repeat center top;
 	background-size: cover;
 	height: 200px;
 }
 
 
-.carousel-cell{
-	background-color: white;
-}
-
 @media all and (min-width: 600px) {
 
-.bannerpage-herobanner{
+.webdevpage-herobanner{
 	height: 300px;
 	width: 70%;
 }
@@ -28,7 +25,7 @@
 	}
 @media all and (min-width: 800px) {
 
-.bannerpage-herobanner{
+.webdevpage-herobanner{
 	width: 100%
 }
 

@@ -6,20 +6,22 @@
 <div class="container">
 
 		<div class="content-header">
-	<div class="bannerpage-herobanner">
-	<h2>Web</h2>
+	<div class="page-herobanner webpage-herobanner">
+	<h2>Web Design</h2>
 	</div>
 
-	<div class="bannerpage-content">
-	<div class="bannerpage-section1">
+	<div class="page-content">
+	<div class="page-section1">
 		<h3>UI/UX Design</h3>
-		<p></p>
-		<!-- <img class="" src=""> -->
+		<p>Create variable websites based on the mobile-first: responsive design. Ensure proper communication with producer and clients about the concepts and rationale of the website before starting a project. Then iterating on design and show the progression from concept to final design. This section will show the wireframe of the website and style guide that I have done previously. </p>
+		<img class="web-img" src="img/web-img01.png" alt="img01">
+
 	</div>
 
-	<div class="bannerpage-section2">
-	<h3>Creative Pieces</h3>
-	<p>These are the creative banners that I have done in the previously</p>
+	<div class="page-section2">
+	<h3>Wireframe & Style Guide</h3>
+	
+	<img class="web-img02" src="img/web-img02.png" alt="img02">
 	</div>
 	</div>
 </div>

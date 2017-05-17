@@ -19,6 +19,45 @@ $('.hover_text').hide();
   });
 
 
+  $('.hover_text03').hide();
+  $('.img03').hover(
+    function() {
+    $('.hover03').show();
+  },
+   function() {
+    $('.hover_text03').hide();
+  });
+
+
+  $('.hover_text04').hide();
+  $('.img04').hover(
+    function() {
+    $('.hover04').show();
+  },
+   function() {
+    $('.hover_text04').hide();
+  });
+
+
+    $('.hover_text05').hide();
+  $('.img05').hover(
+    function() {
+    $('.hover05').show();
+  },
+   function() {
+    $('.hover_text05').hide();
+  });
+
+      $('.hover_text06').hide();
+  $('.img06').hover(
+    function() {
+    $('.hover06').show();
+  },
+   function() {
+    $('.hover_text06').hide();
+  });
+
+
 // // 1st carousel, main
 // $('.carousel-main').flickity();
 // // 2nd carousel, navigation
