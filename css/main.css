@@ -117,11 +117,14 @@ a{
 
 
 .github{
-font-size: 200px;
+	font-size: 200px;
     text-align: center;
     color: #363636;
 }
 
+.img06 i{
+    padding-top: 20%;
+}
 
 @media all and (min-width: 600px) {
 	.hover_text p{

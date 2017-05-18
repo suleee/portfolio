@@ -5,7 +5,7 @@
 	
 <div class="container">
 
-		<div class="content-header">
+	<div class="content-header">
 	<div class="page-herobanner webdevpage-herobanner">
 	<h2>Web Development</h2>
 	</div>
@@ -15,10 +15,11 @@
 		<h3>Web Development</h3>
 		<p>These are the pages I have created. What I did here was only coding. I haven’t done the design.</p>
 	</div>
-	<a href="" ><i class="fa fa-github" aria-hidden="true"></i></a>
 
 
-	<div class="page-section2">
+	<div class="page-section2 gitpage">
+	
+	<a href="https://github.com/suleee" ><i class="fa fa-github" aria-hidden="true"></i></a>
 	<ul>
 	<li><a href="https://suleee.github.io/Aloha-Responsive-Website/">Aloha website</a></li>
 	<li><a href="https://suleee.github.io/Instanews-App/">Inhabitent</a></li>
