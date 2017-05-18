@@ -57,6 +57,15 @@ $('.hover_text').hide();
     $('.hover_text06').hide();
   });
 
+      $('.hover_text07').hide();
+  $('.img07').hover(
+    function() {
+    $('.hover07').show();
+  },
+   function() {
+    $('.hover_text07').hide();
+  });
+
 
 // // 1st carousel, main
 // $('.carousel-main').flickity();

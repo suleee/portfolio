@@ -24,6 +24,7 @@
 	<li><a href="https://suleee.github.io/Instanews-App/">Inhabitent</a></li>
 	<li><a href="https://github.com/suleee/Inhabitent_project4">Inhabitent</a></li>
 	<li><a href="https://suleee.github.io/PongGame/">Pong Game</a></li>
+	</ul>
 
 	
 	</div>

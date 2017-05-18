@@ -19,7 +19,8 @@
 	</div>
 
 	<div class="page-section2">
-	<h3>Progress</h3>
+	<h3>Design progress</h3>
+	<p>the theme of design is customizable based on the porduct</p>
 	<img class="sign-img" src="img/sign-img02.png" alt="img01">
 	<img class="sign-img" src="img/sign-img03.png" alt="img01">
 

@@ -35,11 +35,17 @@
 	
 	
 
-	<li><div class="img-container"><img class="img fill" src="img/main-gh-thumb.jpg" alt="wr-thumb"></div></li>
+	<li class="img05"><div class="hover_text05 hover05"><p>Sign-up pgae</p>
+		<a class="btn" href="ui.php">see more</a>
+	</div><div class="img-container"><img class="img fill" src="img/main-ui-thumb.jpg" alt="ui-thumb"></div></li>
 
 	<li class="img06"><div class="hover_text06 hover06"><p>Github</p><a class="btn" href="webdev.php">see more</a>
 	</div><div class="img-container github"><i class="fa fa-github" aria-hidden="true"></i></div></li>
-	
+
+	<li class="img07"><div class="hover_text07 hover07"><p>Sign-up pgae</p>
+	<a class="btn" href="banners.php">see more</a>
+	</div><div class="img-container"><img class="img fill" src="img/mian-ms-thumb.jpg" alt="ui-thumb"></div></li>
+
 	</ul>
 </div>
 
