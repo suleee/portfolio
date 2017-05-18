@@ -1,5 +1,5 @@
 $(function () {
-$('.hover_text').hide();
+$('.hover_text01').hide();
   $('.img01').hover(
     function() {
     $('.hover01').show();

@@ -18,6 +18,10 @@
 	background-color: white;
 }
 
+.fotorama{
+	    padding-left: 10%;
+}
+
 @media all and (min-width: 600px) {
 
 .bannerpage-herobanner{
@@ -29,7 +33,7 @@
 @media all and (min-width: 800px) {
 
 .bannerpage-herobanner{
-	width: 100%
+	width: 78%;
 }
 
 	}

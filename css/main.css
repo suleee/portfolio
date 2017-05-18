@@ -23,7 +23,7 @@
 }
 .hover_text p{
 	color: white;
-	padding-top: 80px;
+	padding-top: 35%;
 	margin-bottom: 30px;
 	font-size: 20px;
 	font-weight: 300;
@@ -55,14 +55,7 @@ a{
 	width: 100%;
 	height: 100%;
 }
-.hover_text02 p{
-	color: white;
-	padding-top: 80px;
-	margin-bottom: 30px;
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1.2px;
-}
+
 
 .img03{
 	position: relative;
@@ -74,14 +67,7 @@ a{
 	width: 100%;
 	height: 100%;
 }
-.hover_text03 p{
-	color: white;
-	padding-top: 80px;
-	margin-bottom: 30px;
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1.2px;
-}
+
 
 .img04{
 	position: relative;
@@ -93,15 +79,6 @@ a{
 	width: 100%;
 	height: 100%;
 }
-.hover_text04 p{
-	color: white;
-	padding-top: 80px;
-	margin-bottom: 30px;
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1.2px;
-}
-
 
 
 .img05{
@@ -114,15 +91,6 @@ a{
 	width: 100%;
 	height: 100%;
 }
-.hover_text05 p{
-	color: white;
-	padding-top: 80px;
-	margin-bottom: 30px;
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1.2px;
-}
-
 
 .img06{
 	position: relative;
@@ -134,14 +102,7 @@ a{
 	width: 100%;
 	height: 100%;
 }
-.hover_text06 p{
-	color: white;
-	padding-top: 80px;
-	margin-bottom: 30px;
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1.2px;
-}
+
 
 .img07{
 	position: relative;
@@ -153,14 +114,7 @@ a{
 	width: 100%;
 	height: 100%;
 }
-.hover_text07 p{
-	color: white;
-	padding-top: 80px;
-	margin-bottom: 30px;
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1.2px;
-}
+
 
 .github{
 font-size: 200px;
@@ -170,6 +124,9 @@ font-size: 200px;
 
 
 @media all and (min-width: 600px) {
+	.hover_text p{
+	padding-top: 40%;
+}
 	.content li{
 		width: 50%;
 	}

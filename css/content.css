@@ -54,28 +54,14 @@
 	padding-top: 200px;
     text-align: center;
 }
-/*.page-herobanner{
-	width: 50%;
-	position: fixed;
-	background-size: cover;
-	height: 200px;
-}*/
-
 
 @media all and (min-width: 600px) {
 
 .content-header h2{
-	/*left: 3%;*/
-	font-size: 60px;
+   font-size: 34px;
+   right: 4%;
 }
 
-/*.bannerpage-content h3{
-	margin: 0 30px;
-}*/
-/*.page-herobanner{
-	height: 300px;
-	width: 70%;
-}*/
 .page-content p{
     padding: 20px 50px 50px 50px;
 }
@@ -89,10 +75,6 @@
 	}
 @media all and (min-width: 800px) {
 .content-header h2{
-    right: 90px;
+   font-size: 50px;
 }
-/*.page-herobanner{
-	width: 100%
-}*/
-
 	}
