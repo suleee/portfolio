@@ -2,7 +2,7 @@
 <?php include( './pages/header.php' );?>
 <!-- side menu -->
 <?php include( './pages/side.php' );?>
-	
+
 <div class="container">
 
 	<div class="content-header">
@@ -18,16 +18,16 @@
 
 
 	<div class="page-section2 gitpage">
-	
+
 	<a href="https://github.com/suleee" ><i class="fa fa-github" aria-hidden="true"></i></a>
 	<ul>
 	<li><a href="https://suleee.github.io/Aloha-Responsive-Website/">Aloha website</a></li>
-	<li><a href="https://suleee.github.io/Instanews-App/">Inhabitent</a></li>
+	<li><a href="https://suleee.github.io/Instanews-App/">NYTInstanNews</a></li>
 	<li><a href="https://github.com/suleee/Inhabitent_project4">Inhabitent</a></li>
 	<li><a href="https://suleee.github.io/PongGame/">Pong Game</a></li>
 	</ul>
 
-	
+
 	</div>
 	</div>
 </div>

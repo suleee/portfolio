@@ -1,5 +1,6 @@
 .ui-img{
 	width: 100%;
+	    margin-bottom: 20px;
 }
 .uipage-herobanner{
 	/*z-index: 2;*/
@@ -9,6 +10,7 @@
 	url("../img/ui-hero.jpg") no-repeat center top;
 	background-size: cover;
 	height: 200px;
+
 }
 
 
