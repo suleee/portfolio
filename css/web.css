@@ -1,6 +1,7 @@
 
 .web-img02{
 	width: 100%;
+	    margin-bottom: 30px;
 }
 
 .webpage-herobanner{
@@ -12,7 +13,16 @@
 	background-size: cover;
 	height: 200px;
 }
-
+.viewmore li{
+	    border: 1px solid #747474;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+.viewmore li:hover{
+background-color: #de6950;
+border: 1px solid #de6950;
+color: white;
+}
 
 @media all and (min-width: 600px) {
 
@@ -27,6 +37,11 @@
 .webpage-herobanner{
 	width: 78%;
 }
-
+.viewmore{
+	    display: flex;
+}
+.viewmore li{
+	margin: 0 20px;
+}
 	}
 
