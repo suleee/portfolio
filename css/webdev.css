@@ -13,7 +13,7 @@ a .fa-github {
 	height: 200px;
 }
 ul{
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 .gitpage li{
 	font-size: 20px;
@@ -31,7 +31,11 @@ color: #de6950;
 .webdevpage-herobanner{
 	height: 300px;
 	width: 70%;
+
 }
+/*ul{
+	margin-bottom: 40px;
+}*/
 
 	}
 @media all and (min-width: 800px) {
