@@ -2,7 +2,7 @@
 <?php include( './pages/header.php' );?>
 <!-- side menu -->
 <?php include( './pages/side.php' );?>
-	
+
 <div class="container">
 
 	<div class="content-header">
@@ -28,11 +28,12 @@
 	     data-minheight="50"
 	     data-maxheight="100%">
 
-			<div class="carousel-cell"><img class="banner-img01" src="img/banner-img03.png" alt="banner-image"></div>
-			<div class="carousel-cell"><img class="banner-img01" src="img/banner-img06.png" alt="banner-image"></div>
-			<div class="carousel-cell"><img class="banner-img01" src="img/banner-img04.png" alt="banner-image"></div>
-			<div class="carousel-cell"><img class="banner-img01" src="img/banner-img05.png" alt="banner-image"></div>
-			<div class="carousel-cell"><img class="banner-img01" src="img/banner-img02.png" alt="banner-image"></div>
+  <a href="1.jpg"><img src="img/banner-img03.png" width="144" height="96"></a>
+  <a href="2.jpg"><img src="img/banner-img06.png" width="144" height="96"></a>
+ <a href="3.jpg"><img src="img/banner-img04.png" width="144" height="96"></a>
+  <a href="4.jpg"><img src="img/banner-img05.png" width="144" height="96"></a>
+  <a href="4.jpg"><img src="img/banner-img02.png" width="144" height="96"></a>
+
 
 		</div>
 	</div>
