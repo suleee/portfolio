@@ -3,42 +3,40 @@ a .fa-github {
 	text-align: center;
 }
 
-
-.webdevpage-herobanner{
+.webdevpage-herobanner {
 	width: 50%;
 	position: fixed;
-	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 100%, rgba(0, 0, 0, 0.85) 100%),
-	url(".jpg") no-repeat center top;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 100%, rgba(0, 0, 0, 0.85) 100%), url(".jpg") no-repeat center top;
 	background-size: cover;
 	height: 200px;
 }
-ul{
+
+ul {
 	margin-bottom: 40px;
 }
-.gitpage li{
+
+.gitpage li {
 	font-size: 20px;
 	line-height: 25px;
 }
-.gitpage a{
-color: #363636;
+
+.gitpage a {
+	color: #363636;
 }
-.gitpage a:hover{
-color: #de6950;
+
+.gitpage a:hover {
+	color: #de6950;
 }
 
 @media all and (min-width: 600px) {
-
-.webdevpage-herobanner{
-	height: 300px;
-	width: 70%;
-
+	.webdevpage-herobanner {
+		height: 300px;
+		width: 70%;
+	}
 }
 
-	}
 @media all and (min-width: 800px) {
-
-.webdevpage-herobanner{
-	width: 78%;
-}
-
+	.webdevpage-herobanner {
+		width: 78%;
 	}
+}

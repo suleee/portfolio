@@ -1,27 +1,32 @@
-.content{
+.content {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 0;
 	padding: 0;
 }
-.img-container img{
+
+.img-container img {
 	width: 100%;
 	height: 100%;
 }
-.content{
+
+.content {
 	height: 100%;
 }
-.img01{
+
+.img01 {
 	position: relative;
 }
-.hover_text{
+
+.hover_text {
 	position: absolute;
 	text-align: center;
-	background: rgba(71,29,23,0.95);
+	background: rgba(71, 29, 23, 0.95);
 	width: 100%;
 	height: 100%;
 }
-.hover_text p{
+
+.hover_text p {
 	color: white;
 	padding-top: 35%;
 	margin-bottom: 30px;
@@ -29,10 +34,12 @@
 	font-weight: 300;
 	letter-spacing: 1.2px;
 }
-a{
+
+a {
 	text-decoration: none;
 }
-.btn{
+
+.btn {
 	color: white;
 	font-weight: 300;
 	padding: 10px 20px;
@@ -40,128 +47,120 @@ a{
 	background-color: #de6950;
 	box-shadow: 0px 2px 0px #AD4833;
 }
-.btn:hover{
+
+.btn:hover {
 	background-color: #FF866C;
 }
 
-
-.img02{
+.img02 {
 	position: relative;
 }
-.hover_text02{
+
+.hover_text02 {
 	position: absolute;
 	text-align: center;
-	background: rgba(0,0,0,0.75);
+	background: rgba(0, 0, 0, 0.75);
 	width: 100%;
 	height: 100%;
 }
 
-
-.img03{
+.img03 {
 	position: relative;
 }
-.hover_text03{
+
+.hover_text03 {
 	position: absolute;
 	text-align: center;
-	background: rgba(71,29,23,0.95);
+	background: rgba(71, 29, 23, 0.95);
 	width: 100%;
 	height: 100%;
 }
 
-
-.img04{
+.img04 {
 	position: relative;
 }
-.hover_text04{
+
+.hover_text04 {
 	position: absolute;
 	text-align: center;
-	background: rgba(0,0,0,0.75);
+	background: rgba(0, 0, 0, 0.75);
 	width: 100%;
 	height: 100%;
 }
 
-
-.img05{
+.img05 {
 	position: relative;
 }
-.hover_text05{
+
+.hover_text05 {
 	position: absolute;
 	text-align: center;
-	background: rgba(71,29,23,0.95);
+	background: rgba(71, 29, 23, 0.95);
 	width: 100%;
 	height: 100%;
 }
 
-.img06{
+.img06 {
 	position: relative;
 }
-.hover_text06{
+
+.hover_text06 {
 	position: absolute;
 	text-align: center;
-	background: rgba(0,0,0,0.75);
+	background: rgba(0, 0, 0, 0.75);
 	width: 100%;
 	height: 100%;
 }
 
-
-.img07{
+.img07 {
 	position: relative;
 }
-.hover_text07{
+
+.hover_text07 {
 	position: absolute;
 	text-align: center;
-	background: rgba(71,29,23,0.95);
+	background: rgba(71, 29, 23, 0.95);
 	width: 100%;
 	height: 100%;
 }
 
-
-.github{
+.github {
 	font-size: 200px;
-    text-align: center;
-    color: #363636;
+	text-align: center;
+	color: #363636;
 }
-
-
 
 @media all and (min-width: 600px) {
-	.hover_text p{
-	padding-top: 40%;
-}
-	.content li{
+	.hover_text p {
+		padding-top: 40%;
+	}
+	.content li {
 		width: 50%;
 	}
-	.img-container{
-	width: 100%;
+	.img-container {
+		width: 100%;
 	}
-	.img{
-	object-fit: contain;
-	height: 100%;
-	width: 100%;
+	.img {
+		object-fit: contain;
+		height: 100%;
+		width: 100%;
 	}
-
 }
 
 @media all and (min-width: 700px) {
-
-		.img06 i{
-    padding-top: 15%;
+	.img06 i {
+		padding-top: 15%;
+	}
 }
-
-}
-
 
 @media all and (min-width: 900px) {
-	.content li{
+	.content li {
 		width: 33.33%;
 	}
-
-
 }
 
 @media all and (min-width: 1153px) {
-	.content li{
+	.content li {
 		width: 25%;
 	}
-
 }
