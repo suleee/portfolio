@@ -1,8 +1,8 @@
 <!-- side menu -->
 	<div class="side-menu">
 		<a href="index.php"><div class="logo">Jlee website</div></a>
-		<p class="logo-subtext"><span>ui/ux</span> Designer</p>
-		<p class="summary">My name is Jisu Lee. I have been working as a web graphic designer for 5 years. 
+		<p class="logo-subtext">Web Designer</p>
+		<p class="summary">My name is Jisu Lee. I have been working as a web graphic designer for 5 years.
 I have had many opportunities to work upon a variety projects. I greatly enjoy designing and programming in the digital space.</p>
 
 		<ul class="nav-menu">

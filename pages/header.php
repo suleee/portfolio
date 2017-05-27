@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    
+
     <title>Jisu Lee</title>
     <link rel="stylesheet" type=text/css href="css/reset.css">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -15,6 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="css/sign.css">
 	<link rel="stylesheet" type="text/css" href="css/webdev.css">
 	<link rel="stylesheet" type="text/css" href="css/ui.css">
+	<link rel="stylesheet" type="text/css" href="css/contact.css">
 	<!-- <link rel="stylesheet" href="css/flickity.css" media="screen"> -->
 	<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
 
