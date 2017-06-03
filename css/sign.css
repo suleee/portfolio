@@ -11,6 +11,17 @@
 	height: 200px;
 }
 
+.viewmore-sign{
+border: 1px solid #747474;
+	padding: 10px 10px;
+	margin-bottom: 10px;
+}
+
+.viewmore-sign:hover {
+	background-color: #de6950;
+	border: 1px solid #de6950;
+	color: white;
+}
 
 @media all and (min-width: 600px) {
 

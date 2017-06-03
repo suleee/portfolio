@@ -7,7 +7,7 @@ I have had many opportunities to work upon a variety projects. I greatly enjoy d
 
 		<ul class="nav-menu">
 		<li><a href="index.php">All</a></li>
-		<li><a href="web.php">Web Design</a></li>
+		<li><a href="web.php">Website Design</a></li>
 		<li><a href="banners.php">Banners</a></li>
 		<li><a href="sign.php">Sign-up page design</a></li>
 		<!-- <li><a href="index.php">Event pages</a></li> -->

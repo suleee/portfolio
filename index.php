@@ -16,7 +16,7 @@
 
 	<li class="img02">
 	<div class="hover_text hover_text02 hover02">
-		<p>Web Design</p>
+		<p>Website Design</p>
 		<a class="btn" href="web.php">see more</a>
 	</div>
 	<div class="img-container"><img class="img fill" src="img/main-fh-thumb02.png" alt="fh-thumb"></div>

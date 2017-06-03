@@ -27,5 +27,7 @@
 .uipage-herobanner{
 	width: 78%;
 }
-
+.ui-img{
+	max-width: 620px;
+}
 	}

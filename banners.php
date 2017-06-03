@@ -21,6 +21,11 @@
 		<div class="page-section2">
 		<h3>Creative Pieces</h3>
 		<p>These are the creative banners that I have done in the previously</p>
+		<ul class="viewmore-banners">
+		<a href="http://jaejisu.wixsite.com/jisulee/mobile-commercial"><li>View more commercial banners</li></a>
+		<a href="http://jaejisu.wixsite.com/jisulee/blank-ck88"><li>View more banners</li></a>
+		</ul>
+
 		<div class="fotorama" data-nav="thumbs"
 		 data-width="90%"  data-ratio="700/400"
 	     data-minwidth="100"

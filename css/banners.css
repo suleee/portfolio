@@ -11,6 +11,27 @@
 	height: 200px;
 }
 
+.viewmore-banners{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	    margin-bottom: 15px;
+}
+.viewmore-banners li{
+    border: 1px solid #747474;
+    margin: 0 15px;
+    width: 200px;
+    margin-bottom: 10px;
+    height: 30px;
+    padding-top: 19px;
+}
+.viewmore-banners li:hover{
+	background-color: #de6950;
+	border: 1px solid #de6950;
+	color: white;
+}
+
+
 .carousel-cell {
 	background-color: white;
 }
@@ -31,4 +52,11 @@
 	.bannerpage-herobanner {
 		width: 78%;
 	}
+		.viewmore {
+		display: flex;
+	}
+	.viewmore li {
+		margin: 0 20px;
+	}
 }
+
