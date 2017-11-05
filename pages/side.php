@@ -21,8 +21,8 @@ I have had many opportunities to work upon a variety projects. I greatly enjoy d
 		<p>email: jaejisu@gmail.com</p>
 		<div class="sns-icons">
 			<a href="http://www.linkedin.com/in/jisu-lee-02834364/" class="icon-container"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-			<a href="https://www.behance.net/jisuelee" class="icon-container">
-			<i class="fa fa-behance" aria-hidden="true"></i>
+			<a href="https://jaejisu.wixsite.com/jisulee" class="icon-container">
+			<i class="fa" aria-hidden="true">w</i>
 			</a>
 			<a href="https://github.com/suleee" class="icon-container git">
 			<i class="fa fa-git" aria-hidden="true"></i>
